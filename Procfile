@@ -1,1 +1,1 @@
-Worker: php 
+Worker: php XO_Game.php
